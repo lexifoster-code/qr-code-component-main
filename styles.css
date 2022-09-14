@@ -55,3 +55,7 @@ h2{
         margin-top: 5px;
     }
     
+    .qr-container{
+          position: relative;
+          top:80px;
+    }
